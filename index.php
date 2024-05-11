@@ -1,3 +1,4 @@
 <?php
-    echo "Hola "
+    echo "Hola ";
+    echo "<h1> ¿Como estas? </h1>"
 ?>
